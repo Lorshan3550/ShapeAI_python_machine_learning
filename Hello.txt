@@ -1,5 +1,6 @@
 I have been using this project for 2 years.
 
+<<<<<<< HEAD
 
 Triple DES: Triple DES is a encryption technique which uses three instance of DES on same plain text. It uses there different types of key choosing technique in first all used keys are different and in second two keys are same and one is different and in third all keys are same.
 
@@ -8,3 +9,6 @@ Triple-DES encryption uses a triple-length DATA key comprised of three 8-byte DE
 Encipher the data using the first key Decipher the result using the second key Encipher the second result using the third key The procedure is reversed to decipher data that has been triple-DES enciphered:
 
 Decipher the data using the third key Encipher the result using the second key Decipher the second result using the first key
+=======
+I had seen him on last week.
+>>>>>>> a5229e0991d71bdc25483e6929cc5a2239af9cab
